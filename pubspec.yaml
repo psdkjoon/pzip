@@ -1,0 +1,15 @@
+name: pzip
+description: Pure Dart library to read and write zip, tar, tar.gz, tar.xz and 7z archives, with AES passwords, plus SHA, HMAC, PBKDF2 and AES helpers.
+version: 1.0.0
+homepage: https://github.com/psdkjoon/ptgb
+repository: https://github.com/psdkjoon/pzip
+issue_tracker: https://github.com/psdkjoon/pzip/issues
+topics:
+  - archive
+  - zip
+  - 7z
+  - tar
+  - compression
+
+environment:
+  sdk: ^3.6.0
